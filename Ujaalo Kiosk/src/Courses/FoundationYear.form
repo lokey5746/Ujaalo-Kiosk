@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="iconifiable" type="boolean" value="true"/>
+    <Property name="maximizable" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="1090" max="32767" attributes="0"/>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="Panel_postgraduate" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="768" max="32767" attributes="0"/>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="Panel_postgraduate" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="Panel_postgraduate">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="72" green="6e" red="63" type="rgb"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1090, 768]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="1090" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane13" alignment="1" pref="945" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="768" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane13" alignment="1" pref="706" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane13">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea13">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="72" green="6e" red="63" type="rgb"/>
+                </Property>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="lineWrap" type="boolean" value="true"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Art and Design BA (Hons) - University Square Campus, Luton&#xa;Animation BA (Hons) - University Square Campus, Luton&#xa;Accounting BA (Hons) - University Square Campus, Luton&#xa;Child and Adolescent Studies BA (Hons) - University Square Campus, Luton&#xa;Social Studies BA (Hons) - University Square Campus, Luton&#xa;Broadcast Journalism BA (Hons) - University Square Campus, Luton&#xa;Criminology BA (Hons) - University Square Campus, Luton&#xa;Creative Writing and Journalism BA (Hons) - University Square Campus, Luton&#xa;Creative Writing BA (Hons) - University Square Campus, Luton&#xa;Dance and Professional Practice BA (Hons) - Bedford Campus&#xa;Education Studies and English BA (Hons) - Bedford Campus&#xa;English and Theatre Studies BA (Hons) - Bedford Campus&#xa;Education Studies BA (Hons) - Bedford Campus&#xa;Fashion Design BA (Hons) - University Square Campus, Luton&#xa;Football Studies BA (Hons) - Bedford Campus&#xa;Graphic Design BA (Hons) - University Square Campus, Luton&#xa;Health and Social Care BA (Hons) - University Square Campus, Luton&#xa;Illustration BA (Hons) - University Square Campus, Luton&#xa;Interior Architecture BA (Hons) - University Square Campus, Luton&#xa;Journalism BA (Hons) - University Square Campus, Luton&#xa;Marketing BA (Hons) - University Square Campus, Luton&#xa;Media Production BA (Hons) - University Square Campus, Luton&#xa;Media Production (Radio) BA (Hons) - University Square Campus, Luton&#xa;Music Technology BA (Hons) - University Square Campus, Luton&#xa;Performing Arts BA (Hons) - Bedford Campus&#xa;Sport and Physical Education BA (Hons) - Bedford Campus&#xa;Sport Journalism BA (Hons) - University Square Campus, Luton&#xa;Sports Studies BA (Hons) - Bedford Campus&#xa;Theatre and Professional Practice BA (Hons) - Bedford Campus&#xa;Television Production BA (Hons) - University Square Campus, Luton&#xa;Accounting and Finance BSc (Hons) - University Square Campus, Luton&#xa;Applied Psychology BSc (Hons) - University Square Campus, Luton&#xa;Business Information Systems BSc (Hons) - University Square Campus, Luton&#xa;Biological Science BSc (Hons) - University Square Campus, Luton&#xa;Artificial Intelligence and Robotics BSc (Hons) - University Square Campus, Luton&#xa;Computer Science BSc (Hons) - University Square Campus, Luton&#xa;Software Engineering BSc (Hons) - University Square Campus, Luton&#xa;Computer Games Development BSc (Hons) - University Square Campus, Luton&#xa;Computing and Mathematics BSc (Hons) - University Square Campus, Luton&#xa;Computer Networking BSc (Hons) - University Square Campus, Luton&#xa;Psychology and Criminology BSc (Hons) - University Square Campus, Luton&#xa;Computer Science and Software Engineering BSc (Hons) - University Square Campus, Luton&#xa;Computer Science and Robotics BSc (Hons) - University Square Campus, Luton&#xa;Forensic Science BSc (Hons) - University Square Campus, Luton&#xa;Human Resource Management BSc (Hons) - University Square Campus, Luton&#xa;Psychology and Criminal Behaviour BSc (Hons) - University Square Campus, Luton&#xa;Psychology, Counselling and Therapies BSc (Hons) - University Square Campus, Luton&#xa;Health Psychology BSc (Hons) - University Square Campus, Luton&#xa;Psychology BSc (Hons) - University Square Campus, Luton&#xa;Sport Science and Coaching BSc (Hons) - Bedford Campus&#xa;Sport and Exercise Science BSc (Hons) - Bedford Campus&#xa;International Finance and Banking BSc (Hons) - University Square Campus, Luton&#xa;Computer Systems Engineering BEng (Hons) - University of Bedfordshire, Milton Keynes&#xa;Health, Nutrition and Exercise BSc (Hons) - Bedford Campus&#xa;Media Communications BA (Hons) - University Square Campus, Luton&#xa;Sport Development and Management BA (Hons) - Bedford Campus&#xa;Computer Security and Forensics BSc (Hons) - University Square Campus, Luton&#xa;Interactive Digital Technologies BSc (Hons) - University Square Campus, Luton&#xa;Strength and Conditioning BSc (Hons) - Bedford Campus&#xa;Broadcast Television and Radio BA (Hons) - University Square Campus, Luton&#xa;Special Needs and Inclusive Education BA (Hons) - Bedford Campus&#xa;Sport Science and Personal Training BSc (Hons) - Bedford Campus&#xa;Human Resource Management (with placement) BSc (Hons) - University of Bedfordshire, Milton Keynes&#xa;Biochemistry BSc (Hons) - University Square Campus, Luton&#xa;English Language and Literature BA (Hons) - Bedford Campus&#xa;Sport and Physical Education BSc (Hons) - Bedford Campus&#xa;English Language and Linguistics BA (Hons) - Bedford Campus&#xa;English Language and Teaching English as a Foreign Language BA (Hons) - Bedford Campus&#xa;Advertising and Branding Design BA (Hons) - University Square Campus, Luton&#xa;Acting BA (Hons) - Bedford Campus&#xa;Aviation and Airport Management BSc (Hons) - University Square Campus, Luton&#xa;Food and Nutrition Science BSc (Hons) - University Square Campus, Luton&#xa;Business Management with Law BSc (Hons) - Bedford Campus&#xa;Economics and Finance BSc (Hons) - University Square Campus, Luton&#xa;Electronic Engineering BEng (Hons) - University Square Campus, Luton&#xa;Early Childhood Education BA (Hons) - Bedford Campus&#xa;Telecommunications and Network Engineering BEng (Hons) - University Square Campus, Luton&#xa;Criminology and Sociology BA (Hons) - University Square Campus, Luton&#xa;Marketing with Events Management BSc (Hons) - University Square Campus, Luton&#xa;Automotive Engineering BEng (Hons) - University Square Campus, Luton&#xa;Mechanical Engineering BEng (Hons) - University Square Campus, Luton&#xa;Journalism, Marketing and Public Relations BA (Hons) - University Square Campus, Luton&#xa;Information Technology BSc (Hons) - University Square Campus, Luton"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder roundedCorners="true" thickness="2">
+                      <Color PropertyName="color" blue="33" green="33" red="ff" type="rgb"/>
+                    </LineBorder>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
